@@ -6,6 +6,8 @@
 
 - 4 photos at each angle (total 60 photos per class)
 
-# Dataset 1
+```dataset_new.zip``` - New dataset of 720 images
 
-```dataset.zip``` 
+- 120 images for each class [free, green, sheep, slow, stop, yellow]
+
+- camera fixed at lowest position
